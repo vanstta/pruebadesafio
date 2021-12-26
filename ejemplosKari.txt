@@ -1,0 +1,13 @@
+[14:39] Karina Gatica
+const data = data.results
+
+[14:40] Karina Gatica
+const { results } = data
+
+[14:40] Karina Gatica
+results.name
+
+[14:40] Karina Gatica
+results.casa
+
+const { title, first, last } = data.name
